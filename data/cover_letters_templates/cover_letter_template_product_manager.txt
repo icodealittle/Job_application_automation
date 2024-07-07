@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the {title} position at {company}. While I acknowledge that my experience in product management is not extensive, my background in data engineering, UX design, and project management has equipped me with a robust skill set that aligns well with the requirements of this role. Additionally, my ability to speak multiple languages—Khmer, Thai, Lao, and intermediate French—enhances my capacity to collaborate with diverse teams and understand various market needs.
+
+Throughout my career, I have demonstrated a strong ability to drive user engagement and manage complex projects, ensuring data reliability and quality. My current personal project, focused on automating job applications, has further honed my skills in Python, Selenium, and NLP tools. This project has not only streamlined my job search process but also enhanced my understanding of product development and management. Here are some highlights:
+
+- Developed and deployed an automated job application system that targets roles such as Product Manager, Data Scientist, and Technical Program Manager. This project leverages Python, Selenium, and NLP tools to simplify and expedite the application process.
+- Designed and implemented a dynamic cover letter generator using GPT-4, which personalizes applications and has significantly increased response rates from potential employers.
+- Built and maintained an SQLite database to track and analyze job applications, providing valuable insights that optimize my job search strategy.
+
+My educational background, including an M.S. in Computer Science with a focus on Data Science, Machine Learning, and Human-Centered AI from Northeastern University, has provided a solid foundation in both technical and analytical skills. Additionally, my B.A. in Political Science from the University of Massachusetts, Lowell, highlights my diverse academic interests and ability to approach problems from multiple perspectives.
+
+I am eager to bring my fast-learning ability, technical skills, and enthusiasm for product management to {company}. I am confident that my unique blend of experiences and my dedication to continuous learning will enable me to contribute effectively to your team. I am excited about the opportunity to contribute to your innovative projects.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my skills and experiences align with the needs of your team. Please feel free to contact me at your earliest convenience to schedule an interview.
+
+Warmest regards,
+
+Soumeng Chea

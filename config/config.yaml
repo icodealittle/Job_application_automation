@@ -1,0 +1,52 @@
+job_boards:
+  - name: "Levels.fyi"
+    url: "https://www.levels.fyi/jobs/"
+    listing_class: "job-item"
+    title_tag: "job-title"
+    company_class: "company-name"
+    location_class: "location"
+    description_class: "description"
+
+resume_paths:
+  product_manager: "data/cover_letters_templates/resume_product_manager.pdf"
+  data_scientist: "data/cover_letters_templates/resume_data_scientist.pdf"
+  data_analyst: "data/cover_letters_templates/resume_data_analyst.pdf"
+  associate_product_manager: "data/cover_letters_templates/resume_associate_product_manager.pdf"
+  program_manager: "data/cover_letters_templates/resume_program_manager.pdf"
+  data_engineer: "data/cover_letters_templates/resume.pdf"
+  general: "data/cover_letters_templates/resume_general.pdf"
+
+
+
+cover_letter_templates:
+  product_manager: "data/cover_letters_templates/cover_letter_template_product_manager.txt"
+  data_scientist: "data/cover_letters_templates/cover_letter_template_data_scientist.txt"
+  data_engineer: "data/cover_letters_templates/cover_letter_template_data_engineer.txt"
+  associate_product_manager: "data/cover_letters_templates/cover_letter_template_associate_product_manager.txt"
+  data_analyst: "data/cover_letters_templates/cover_letter_template_data_science.txt"
+  program_manager: "data/cover_letters_templates/cover_letter_template_product_manager.txt"
+  general: "data/cover_letters_templates/cover_letter_generical.txt"
+
+log_file: "logs/application_automation.log"
+database_file: "database/job_applications.db"
+
+roles:
+  product_manager:
+    keywords: ["product manager", "product owner", "product lead"]
+    skills: ["Agile", "Scrum", "Jira", "product management"]
+  data_scientist:
+    keywords: ["data scientist", "data analyst", "machine learning engineer"]
+    skills: ["Python", "SQL", "machine learning", "data analysis"]
+  associate_product_manager:
+    keywords: ["associate product manager", "junior product manager"]
+    skills: ["Agile", "Scrum", "Jira", "product management"]
+  data_analyst:
+    keywords: ["data analyst", "business analyst"]
+    skills: ["Python", "SQL", "data analysis", "Excel"]
+  program_manager:
+    keywords: ["program manager", "project manager"]
+    skills: ["project management", "program management", "Agile", "Scrum"]
+  data_engineer:
+    keywords: ["data engineer", "ETL developer"]
+    skills: ["Python", "SQL", "data pipelines", "ETL", "data engineering"]
+experience_keywords: ["years of experience", "years", "experience", "required experience"]

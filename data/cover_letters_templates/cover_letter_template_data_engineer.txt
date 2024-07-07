@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I am excited to apply for the {title} position at {company}. My extensive experience in building and maintaining data pipelines, developing cloud-based systems, and ensuring data reliability and quality aligns well with the requirements of this role. Additionally, my ability to speak multiple languages—Khmer, Thai, Lao, and intermediate French—enhances my ability to work with diverse teams and understand different market needs.
+
+Throughout my career, I have consistently demonstrated a strong ability to innovate and optimize data processes. My current freelance role at UCARE Pharmacy has allowed me to pioneer cloud-based systems for nuanced data analysis using Azure, boosting forecasting precision by 25%. Here are some key highlights from my professional journey:
+
+- Data Engineer at UCARE Pharmacy: Developed and maintained data pipelines using Dagster and Airflow, and utilized Pandas, PySpark, and DuckDB for data manipulation and analysis. This experience has strengthened my ability to handle complex data engineering tasks and deliver accurate, reliable data solutions.
+- UX Consultant at Dawn Café: Conducted data-driven UX research using Python and web scraping tools like BeautifulSoup and Selenium, leading to a 20% increase in user engagement and a 15% rise in orders.
+- Student Recruitment Ambassador at Northeastern University: Leveraged agile methodologies to spearhead marketing strategies, achieving a 10% uptick in applicants and serving as a pivotal contact for potential students.
+
+My educational background, including an M.S. in Computer Science with a focus on Data Science, Machine Learning, and Human-Centered AI from Northeastern University, has equipped me with a solid foundation in both technical and analytical skills. Additionally, my B.A. in Political Science from the University of Massachusetts, Lowell, underscores my ability to approach problems from multiple perspectives.
+
+I am eager to bring my fast-learning ability, technical skills, and enthusiasm for data engineering to your team. I am confident that my unique blend of experiences and my dedication to continuous learning will enable me to contribute effectively to your projects.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my skills and experiences align with the needs of your team. Please feel free to contact me at your earliest convenience to schedule an interview.
+
+Warmest regards,
+
+Soumeng Chea
