@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I am thrilled to apply for the {title} position at {company}. With a robust foundation in data engineering, UX design, and project management, I am eager to bring my unique blend of skills to your team. My passion for creating efficient product management solutions and my dedication to user-centric design makes me an ideal candidate for this role.
+
+During my tenure at UCare Pharmacy, I successfully developed and maintained cloud-based inventory systems, enhancing data analysis and providing actionable insights. This experience and my ability to collaborate across departments ensure seamless integration and data integrity.
+
+My fluency in Khmer, Thai, Laotian, and intermediate proficiency in French allows me to communicate effectively with diverse teams and users. As a fast learner, I quickly adapt to new tools and technologies, essential for driving innovation in product management.
+
+At Dawn Café, I mentored UX/UI design teams, leading to a 20% increase in user engagement and a 15% rise in online orders through a mobile app redesign. This experience underscores my commitment to enhancing user experiences and my ability to translate user insights into actionable product improvements.
+
+Currently, I am working on an exciting personal project focused on automating job applications through AI. I developed and deployed an automated job application system, leveraging Python, Selenium, and NLP tools to streamline the job search process for roles such as Product Manager, Data Scientist, and IT Specialist. I also designed and implemented a dynamic cover letter generator using GPT-4, enhancing the personalization of applications and significantly increasing response rates from potential employers. Additionally, I built and maintained an SQLite database to track and analyze job applications, providing valuable insights into application success rates and optimizing the job search strategy.
+
+I am particularly impressed by {company}'s focus on innovation and user-centric products. I am excited about the opportunity to contribute to your team and drive product success through my technical expertise and passion for user engagement.
+
+Thank you for considering my application. I look forward to discussing how my skills and experiences align with the {title} role at {company}.
+
+Sincerely,
+
+Soumeng Chea

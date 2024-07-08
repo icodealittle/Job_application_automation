@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I am excited to apply for the {title} position at {company}. With a robust background in data engineering, analysis, and UX design, I am eager to bring my diverse skill set and passion for data-driven insights to your team.
+
+At UCare Pharmacy, I prototyped and scaled predictive models for inventory management, enhancing forecasting accuracy by 25%. My ability to lead analytics initiatives and provide actionable insights has been instrumental in informing strategic business decisions.
+
+Fluent in Khmer, conversational in Thai and Laotian, and intermediate proficiency in French, I excel at communicating complex data concepts to diverse audiences. My fast learning ability and endless curiosity drive me to improve and adapt to new challenges continually.
+
+During my tenure at Dawn Café, I mentored teams in UX/UI principles, leading to a 20% increase in user engagement and a 15% rise in online orders through a mobile app redesign. This experience underscores my commitment to enhancing user experiences and my ability to translate data into actionable insights.
+
+Currently, I am working on an exciting personal project focused on automating job applications through AI. I developed and deployed an automated job application system, leveraging Python, Selenium, and NLP tools to streamline the job search process for roles such as Product Manager, Data Scientist, and IT Specialist. I also designed and implemented a dynamic cover letter generator using GPT-4, enhancing the personalization of applications and significantly increasing response rates from potential employers. Additionally, I built and maintained an SQLite database to track and analyze job applications, providing valuable insights into application success rates and optimizing the job search strategy.
+
+I am particularly impressed by {company}'s commitment to leveraging data for innovative solutions. I am enthusiastic about the opportunity to contribute to your team and drive data-driven success through my technical expertise and passion for user engagement.
+
+Thank you for considering my application. I look forward to discussing how my skills and experiences align with the {title} role at {company}.
+
+Sincerely,
+
+Soumeng Chea

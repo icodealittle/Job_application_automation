@@ -8,45 +8,48 @@ job_boards:
     description_class: "description"
 
 resume_paths:
-  product_manager: "data/cover_letters_templates/resume_product_manager.pdf"
-  data_scientist: "data/cover_letters_templates/resume_data_scientist.pdf"
-  data_analyst: "data/cover_letters_templates/resume_data_analyst.pdf"
-  associate_product_manager: "data/cover_letters_templates/resume_associate_product_manager.pdf"
-  program_manager: "data/cover_letters_templates/resume_program_manager.pdf"
-  data_engineer: "data/cover_letters_templates/resume.pdf"
-  general: "data/cover_letters_templates/resume_general.pdf"
+  product_manager: "data/resume_product_manager.pdf"
+  data_scientist: "data/resume_data_scientist.pdf"
+  data_analyst: "data/resume_data_analyst.pdf"
+  associate_product_manager: "data/resume_associate_product_manager.pdf"
+  program_manager: "data/resume_program_manager.pdf"
+  data_engineer: "data/resume.pdf"
+  general: "data/resume.pdf"
 
 
 
 cover_letter_templates:
-  product_manager: "data/cover_letters_templates/cover_letter_template_product_manager.txt"
-  data_scientist: "data/cover_letters_templates/cover_letter_template_data_scientist.txt"
-  data_engineer: "data/cover_letters_templates/cover_letter_template_data_engineer.txt"
-  associate_product_manager: "data/cover_letters_templates/cover_letter_template_associate_product_manager.txt"
-  data_analyst: "data/cover_letters_templates/cover_letter_template_data_science.txt"
-  program_manager: "data/cover_letters_templates/cover_letter_template_product_manager.txt"
-  general: "data/cover_letters_templates/cover_letter_generical.txt"
+  product_manager: "data/cover_letter/cover_letter_template_product_manager.txt"
+  data_scientist: "data/cover_letter/cover_letter_template_data_scientist.txt"
+  data_engineer: "data/cover_letter/cover_letter_template_data_engineer.txt"
+  associate_product_manager: "data/cover_letter/cover_letter_template_associate_product_manager.txt"
+  data_analyst: "data/cover_letter/cover_letter_template_data_analyst.txt"
+  program_manager: "data/cover_letter/cover_letter_template_program_manager.txt"
+  general: "data/cover_letter/cover_letter_general.txt"
 
 log_file: "logs/application_automation.log"
 database_file: "database/job_applications.db"
 
 roles:
   product_manager:
-    keywords: ["product manager", "product owner", "product lead"]
+    keywords: ["product manager", "product owner", "product lead", "product development", "product strategy"]
     skills: ["Agile", "Scrum", "Jira", "product management"]
   data_scientist:
-    keywords: ["data scientist", "data analyst", "machine learning engineer"]
+    keywords: ["data scientist", "data analyst", "machine learning engineer", "data analytics", "data science"]
     skills: ["Python", "SQL", "machine learning", "data analysis"]
   associate_product_manager:
-    keywords: ["associate product manager", "junior product manager"]
+    keywords: ["associate product manager", "junior product manager", "assistant product manager"]
     skills: ["Agile", "Scrum", "Jira", "product management"]
   data_analyst:
-    keywords: ["data analyst", "business analyst"]
+    keywords: ["data analyst", "business analyst", "analytics consultant"]
     skills: ["Python", "SQL", "data analysis", "Excel"]
   program_manager:
-    keywords: ["program manager", "project manager"]
+    keywords: ["program manager", "project manager", "program coordinator"]
     skills: ["project management", "program management", "Agile", "Scrum"]
   data_engineer:
-    keywords: ["data engineer", "ETL developer"]
+    keywords: ["data engineer", "ETL developer", "data pipeline engineer", "data integration engineer"]
     skills: ["Python", "SQL", "data pipelines", "ETL", "data engineering"]
+  general:
+    keywords: ["engineer", "developer", "analyst", "manager", "specialist", "consultant", "coordinator", "lead", "technician", "reseacher", "software engineer", "software developer", "project manager", "technical", "data engineer", "ux consultant", "ux researcher", "product manager", "associate product manager", "program manager", "data scientist", "data analyst"]
+    skills: ["python", "sql", "javascript", "html", "r", "tensorflow", "pytorch", "scikit-learn", "pandas", "pyspark", "polars", "duckdb", "azure", "aws", "airflow", "dagster", "prefect", "matplotlib", "seaborn", "tableau", "power bi", "beautifulsoup", "selenium", "playwright", "requests", "fivetran", "hightouch", "predictive modeling", "eda", "usability testing", "agile project management", "user research", "keras", "ggplot2", "amplitude", "segment", "iterable", "chatgpt", "github copilot", "data manipulation", "data visualization", "data orchestration", "cloud-based systems", "data security protocols", "ux/ui design", "user engagement", "machine learning", "nlp", "database management", "sqlite", "client relationship management", "product adoption", "training and support", "crm systems", "cross-functional team leadership", "global deployments", "user stories", "product specifications", "feature trackers"]
 experience_keywords: ["years of experience", "years", "experience", "required experience"]

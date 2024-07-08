@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiasm for the {title} position at {company}. With a robust background in data engineering, UX design, and project management, I am eager to bring my diverse skill set and passion for user-centric solutions to your esteemed team. My experience in developing and maintaining data pipelines, cloud-based systems, and ensuring data reliability makes me confident in my ability to contribute effectively to your organization.
+
+At UCare Pharmacy, I pioneered cloud-based systems for nuanced data analysis using Azure, boosting forecasting precision by 25%. I developed and maintained data pipelines using Dagster and Airflow and utilized Pandas, PySpark, and DuckDB for data manipulation and analysis. My ability to collaborate across various departments and ensure data integrity through robust security practices will be valuable to {company}.
+
+I am fluent in Khmer, Thai, Laotian, and possess intermediate proficiency in French, enabling me to communicate effectively with diverse teams and users. As a fast learner, I quickly adapt to new tools and technologies, ensuring I can contribute from day one. My endless curiosity drives me to continually improve and stay updated with the latest industry trends.
+
+At Dawn Café, I overhauled mobile app interfaces, resulting in a 20% surge in user engagement and a 15% increase in orders. This experience underscores my commitment to enhancing user experiences and my ability to translate user insights into actionable product improvements.
+
+Currently, I am working on an exciting personal project focused on automating job applications through AI. I developed and deployed an automated job application system, leveraging Python, Selenium, and NLP tools to streamline the job search process for roles such as Product Manager, Data Scientist, and IT Specialist. I also designed and implemented a dynamic cover letter generator using GPT-4, enhancing the personalization of applications and significantly increasing response rates from potential employers. Additionally, I built and maintained an SQLite database to track and analyze job applications, providing valuable insights into application success rates and optimizing the job search strategy.
+
+I am particularly drawn to {company} due to its commitment to innovation and user-centric products. My technical expertise, combined with my passion for creating efficient data management solutions, aligns well with the responsibilities of the {title} position.
+
+Thank you for considering my application. I am excited about the opportunity to contribute to your team and drive impactful data-driven solutions. I look forward to discussing how my skills and experiences align with the needs of {company}.
+
+Sincerely,
+
+Soumeng Chea

@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am excited to apply for the {title} position at {company}. With a strong background in data engineering, UX design, and project management, I am confident I can contribute effectively to your team. My technical expertise, coupled with my passion for leveraging technology to drive user engagement and ensure data reliability, aligns well with the responsibilities of this role.
+
+At UCare Pharmacy, I developed and maintained cloud-based inventory systems using Python, SQL, and JavaScript, which enhanced data analysis and provided actionable insights. My experience collaborating with various departments to ensure seamless integration and maintaining data integrity through robust security practices will be invaluable to {company}.
+
+I am fluent in Khmer, Thai, Laotian, and have an intermediate proficiency in French. This multilingual ability, combined with my endless curiosity and willingness to learn, enables me to understand and cater to diverse user needs. I am a fast learner with a knack for quickly adapting to new tools and technologies, ensuring I can contribute from day one.
+
+At Dawn Café, I mentored UX/UI design teams and drove a 20% increase in user engagement through a mobile app redesign, demonstrating my ability to understand and improve user experiences.
+
+Currently, I am working on an exciting personal project focused on automating job applications through AI. I developed and deployed an automated job application system, leveraging Python, Selenium, and NLP tools to streamline the job search for roles such as Product Manager, Data Scientist, and IT Specialist. I also designed and implemented a dynamic cover letter generator using GPT-4, enhancing the personalization of applications and significantly increasing response rates from potential employers. Additionally, I built and maintained an SQLite database to track and analyze job applications, providing valuable insights into application success rates and optimizing the job search strategy.
+
+I am enthusiastic about the opportunity to bring my skills and experiences to {company} and contribute to your data engineering efforts. Thank you for considering my application. I look forward to discussing how I can contribute to your team.
+
+Sincerely,
+
+Soumeng Chea
