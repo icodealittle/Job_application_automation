@@ -16,7 +16,9 @@ if not openai.api_key:
 
 
 def generate_cover_letter(job, role):
-    with open("config/config.yaml", "r") as file:
+    with open(
+        "config/config.yaml", "r"
+    ) as file:
         config = yaml.safe_load(file)
 
     cover_letter_template_path = config["cover_letter_templates"][role]
@@ -37,7 +39,7 @@ def generate_cover_letter(job, role):
 
     try:
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",  # or use "gpt-4" if you have access
+            model="gpt-4",  # or use "gpt-4" if you have access
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": cover_letter},
