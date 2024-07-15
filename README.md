@@ -11,24 +11,28 @@ This project automates the job application process by collecting job listings fr
 - Submit job applications.
 - Track submitted applications in a SQLite database.
 
+
+
 ## Project Structure
 
+<pre> 
 job_application_automation/
 ├── config/
 │ └── config.yaml
 ├── data/
 │ ├── cover_letters/
 │ ├── resumes/
-│ ├── cover_letter_templates/
+│ └── cover_letter_templates/
 ├── logs/
 │ └── application_automation.log
 ├── scripts/
 │ ├── collect_job_listings.py
 │ ├── generate_cover_letter.py
-│ ├── match_requirements.py
+│ └── match_requirements.py
 ├── .env
 ├── requirements.txt
-└── main.py
+└── main.py 
+ </pre>
 
 ### Conclusion
 

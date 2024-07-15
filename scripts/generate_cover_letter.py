@@ -16,9 +16,7 @@ if not openai.api_key:
 
 
 def generate_cover_letter(job, role):
-    with open(
-        "config/config.yaml", "r"
-    ) as file:
+    with open("config/config.yaml", "r") as file:
         config = yaml.safe_load(file)
 
     cover_letter_template_path = config["cover_letter_templates"][role]
@@ -68,7 +66,7 @@ if __name__ == "__main__":
     job = {
         "company": "Example Corp",
         "title": "Data Scientist",
-        "matched_skills_resume": ["Python", "SQL", "machine learning"]
+        "matched_skills_resume": ["Python", "SQL", "machine learning"],
     }
     updated_job = generate_cover_letter(job, "data_scientist")
     print(updated_job)
