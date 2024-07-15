@@ -36,4 +36,4 @@ job_application_automation/
 
 ### Conclusion
 
-This README provides a basic overview of the project, setup instructions, and descriptions of the main scripts. Adjust the content as necessary to better fit your specific implementation and preferences.
+This README provides a basic overview of the project. Adjust the content as necessary to better fit your specific implementation and preferences.
