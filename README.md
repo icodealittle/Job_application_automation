@@ -2,7 +2,7 @@
 
 This project automates the job application process by collecting job listings from multiple job boards, parsing job descriptions, matching requirements with your resume, generating customized cover letters using OpenAI, submitting applications, and tracking them in a database.
 
-Project structure writes up can be found here: https://bit.ly/AutomatingJobAppsAI
+Project structure writes up can be found here: [Automating Job Applications with Artificial Intelligence (AI)](https://www.notion.so/Automating-Job-Applications-with-Artificial-Intelligence-AI-b5a89995b65c4645b7de9404a0c8f4bd?pvs=4)
 
 ## Features
 
