@@ -2,6 +2,8 @@
 
 This project automates the job application process by collecting job listings from multiple job boards, parsing job descriptions, matching requirements with your resume, generating customized cover letters using OpenAI, submitting applications, and tracking them in a database.
 
+Project structure writes up can be found here: https://bit.ly/AutomatingJobAppsAI
+
 ## Features
 
 - Collect job listings from multiple job boards (e.g., Glassdoor, Indeed, LinkedIn, Monster, CareerBuilder, SimplyHired, ZipRecruiter).
@@ -10,8 +12,6 @@ This project automates the job application process by collecting job listings fr
 - Generate customized cover letters using OpenAI's GPT-3.
 - Submit job applications.
 - Track submitted applications in a SQLite database.
-
-
 
 ## Project Structure
 
