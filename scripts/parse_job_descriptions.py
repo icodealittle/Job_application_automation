@@ -26,3 +26,9 @@ def parse_job_description(job, role, config):
     
     for sent in doc.sents:
         # TODO: Figure out how to finish this for loops and what to return here
+
+        if "...." in send.text.lower():
+            responsibility.append(sent.text.strip())
+    Exp_keywords = 
+
+        
